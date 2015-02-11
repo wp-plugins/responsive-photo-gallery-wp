@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: copyright@themepoints.com
 License URI: http://themepoints.com/copyright/
 
-Responsive Photo Gallery
+Pure Css3 Responsive Photo Gallery for wordpress.
 
 
 == Description ==
