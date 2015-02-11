@@ -43,7 +43,7 @@ Custom Photo Gallery is pure HTML,CSS & Responsive Photo Gallery for WordPress.D
 1. Install as regular WordPress plugin.<br />
 2. Go your plugin setting via WordPress Dashboard and find "<strong>Custom photo gallery wordpress </strong>" activate it.<br />
 
-After activate plugin you will see "Photo Gallery" menu at left side on WordPress dashboard click "Ad New Photo" and use the options field "Gallery Settings"<br />
+After activate plugin you will see "Photo Gallery" menu at left side on WordPress dashboard click "Add New Photo" and use the options field "Gallery Settings"<br />
 
 <br />
 <strong>How to use on page</strong><br />
