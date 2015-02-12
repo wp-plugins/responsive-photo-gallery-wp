@@ -1,7 +1,7 @@
 === Custom Photo Gallery Wordpress ===
 Contributors: themepoints
 Donate link: http://themepoints.com/donate/
-Tags:  custom photo gallery, responsive photo gallery, photo gallery wordpress, easy photo gallery,wp photo gallery, light photo gallery
+Tags:  photo galleyr, image gallery, responsive image gallery ,custom photo gallery, responsive photo gallery, photo gallery wordpress, easy photo gallery,wp photo gallery, light photo gallery
 Requires at least: 3.8
 Tested up to: 4.0.1
 Stable tag: 1.0
