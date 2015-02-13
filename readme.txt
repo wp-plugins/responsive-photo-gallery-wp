@@ -17,6 +17,10 @@ Custom Photo Gallery is pure HTML,CSS & Responsive Photo Gallery for WordPress.D
 
 
 
+### Photo Gallery by http://themepoints.com
+
+* [Live demo!&raquo;](http://themepoints.com)
+
 
 
 <strong>Plugin Features</strong><br />
