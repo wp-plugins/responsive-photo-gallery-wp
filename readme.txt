@@ -3,7 +3,7 @@ Contributors: themepoints
 Donate link: http://themepoints.com/donate/
 Tags:  photo galleyr, image gallery, responsive image gallery ,custom photo gallery, responsive photo gallery, photo gallery wordpress, easy photo gallery,wp photo gallery, light photo gallery
 Requires at least: 3.8
-Tested up to: 4.0.1
+Tested up to: 4.2.2
 Stable tag: 1.0
 License: copyright@themepoints.com
 License URI: http://themepoints.com/copyright/
